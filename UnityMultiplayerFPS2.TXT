@@ -16,3 +16,20 @@ Bölüm 2: The Player ///////////////////////////////////
 13. Staying Grounded
 14. Building The Game To Test
 15. Freeing The Mouse
+
+
+Bölüm 3: Shooting & Weapons ///////////////////////////////////
+
+16. Shooting
+17. Creating Impact Effect
+18. Placing Impacts
+19. Automatic Firing
+20. Weapon Overheating
+21. Letting The Player Know They've Overheated
+22. Displaying Current Weapon Heat
+23. Adding A Crosshair
+24. Setting Up Multiple Weapons
+25. Switching Weapons
+26. Making The Weapons Function Correctly
+27. Muzzle Flashes
+
