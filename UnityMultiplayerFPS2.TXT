@@ -33,3 +33,10 @@ Bölüm 3: Shooting & Weapons ///////////////////////////////////
 26. Making The Weapons Function Correctly
 27. Muzzle Flashes
 
+
+Bölüm 4: Making A Level ///////////////////////////////////
+
+28. Setting Up A Level
+29. Spawning At Different Points
+30. Selecting Weapon With Number Keys
+31. END OF FPS SECTION
